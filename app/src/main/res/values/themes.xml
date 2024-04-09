@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IPZ_CW_1_2_Veremeichyk_Yevhenii_1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.IPZ_CW_1_2_Veremeichyk_Yevhenii_1" parent="Base.Theme.IPZ_CW_1_2_Veremeichyk_Yevhenii_1" />
+</resources>
