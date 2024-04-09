@@ -29,6 +29,14 @@
         android:textColorHint="@color/white"
         android:textSize="24sp"
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="24sp"
+
   </LinearLayout>
 
 </RelativeLayout>
